@@ -8,7 +8,7 @@ from rawtextcheck.newtype import ParserArgument
 
 # == Constants ================================================================
 
-# examples of argume
+# examples of arguments
 # ARG_1 = ParserArgument(name="arg1", optional=False)
 # ARG_2 = ParserArgument(name="arg2", optional=True)
 
